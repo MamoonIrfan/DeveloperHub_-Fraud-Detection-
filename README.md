@@ -21,6 +21,4 @@ The task focuses on detecting fraudulent credit card transactions using machine 
 
 ## 🚀 How to Run
 1. Clone the repository:
-   ```bash
-   git clone <repo-link>
-   cd DevelopersHub-Internship-Task3
+   https://github.com/MamoonIrfan/DeveloperHub_-Fraud-Detection-.git
